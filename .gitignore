@@ -1,0 +1,17 @@
+# R/RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*~
+*.tmp
+
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
